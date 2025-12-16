@@ -1,5 +1,11 @@
 # Final_RandomSelecter - 隨機選擇器
 
+## 靜態HTML Demo(前端畫面)
+**Demo 網址**: [https://tsz7250.github.io/1111_WebProgramming_Final/](https://tsz7250.github.io/1111_WebProgramming_Final/)
+<img src="./pic/index.png" alt="主頁">
+<img src="./pic/ledger.png" alt="記帳">
+
+
 ## 📖 期末專題報告
 
 校園美食隨機選擇器，提供食物類別和餐廳篩選功能的學餐隨機選擇系統。使用者可以註冊帳號，使用記帳功能，並查看過去的使用記錄及總金額統計。
